@@ -14,6 +14,7 @@ h1 {
     font-family: Arial, Helvetica, sans-serif;
     padding-left: 250px;
     color: white;
+    width: 100%;
 
 }
 
@@ -23,6 +24,7 @@ h2 {
     padding: 10px;
     padding-left: 250px;
     font-size: medium;
+    width: 100%;
 }
 
 .flex1 {
@@ -75,6 +77,7 @@ footer {
     margin-top: 20px;
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(77, 77, 77);
+    width: 100%;
 }
 
 .fa-regular {
